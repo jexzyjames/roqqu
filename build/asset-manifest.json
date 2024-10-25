@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98d48f79.css",
+    "main.js": "/static/js/main.65b75ddf.js",
+    "static/js/453.f0e042e7.chunk.js": "/static/js/453.f0e042e7.chunk.js",
+    "static/media/gif.gif": "/static/media/gif.3ff7979077f58c00527b.gif",
+    "static/media/exchange.gif": "/static/media/exchange.73a54927cfc2a8418116.gif",
+    "static/media/business.gif": "/static/media/business.64221c8336dd59ac5b2e.gif",
+    "static/media/offerbg.png": "/static/media/offerbg.5925fe0b8ebd14df1c0e.png",
+    "static/media/roqqu-dashboard.png": "/static/media/roqqu-dashboard.377db723127cce355d0d.png",
+    "static/media/logos.svg": "/static/media/logos.5de34c6489ffde4710198cc14d550c02.svg",
+    "index.html": "/index.html",
+    "main.98d48f79.css.map": "/static/css/main.98d48f79.css.map",
+    "main.65b75ddf.js.map": "/static/js/main.65b75ddf.js.map",
+    "453.f0e042e7.chunk.js.map": "/static/js/453.f0e042e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d48f79.css",
+    "static/js/main.65b75ddf.js"
+  ]
+}
